@@ -96,7 +96,3 @@ public class Solution {
 		return minimumFlights;
 	}
 }
-
-// Not sure why when args[0] is taken as a String for filename, the program is throwing a ArrayIndexOutOfBoundsException. 
-// I used Eclipse to write this program and the output is correct when I put the file as an argument.
-// I spent a lot of time trying to debug this, not sure what the problem is.
